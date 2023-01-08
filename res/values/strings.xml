@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CHINESE DOMINOES</string>
+    <string name="app_name_2">SCORE KEEPER</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="new_down">NEW DOWN</string>
+    <string name="score">SCORE</string>
+    <string name="winner">W</string>
+    <string name="winner_select">Congratulations! Choose the winner.</string>
+
+</resources>
